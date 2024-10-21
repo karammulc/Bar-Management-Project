@@ -1,3 +1,4 @@
+![Turtle's Tap Logo](https://github.com/karammulc/Bar-Management-Project/blob/main/turtlestaplogo.png)
 # Bar-Management-Project
 
 This repository contains an anonymized version of the project. Fictional beer names, inspired by pets and creative input from friends, have been used to maintain client confidentiality while showcasing the full capabilities of the dashboard. 
