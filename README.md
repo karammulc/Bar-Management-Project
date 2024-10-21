@@ -29,13 +29,13 @@ This project involves the development of a comprehensive beer inventory analysis
 
 ## Skills Demonstrated
 
-Data cleaning and verification
-Advanced spreadsheet formula creation
-Data visualization and dashboard design
-Problem-solving and adaptability in tool selection
-Collaboration with non-technical stakeholders
+- Data cleaning and verification
+- Advanced spreadsheet formula creation
+- Data visualization and dashboard design
+- Problem-solving and adaptability in tool selection
+- Collaboration with non-technical stakeholders
 
-Future Recommendations
+## Future Recommendations
 
 - Extend data collection period for more comprehensive trend analysis
 - Incorporate event data to correlate with sales patterns
