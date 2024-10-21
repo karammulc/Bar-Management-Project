@@ -1,12 +1,12 @@
 ![Turtle's Tap Logo](https://github.com/karammulc/Bar-Management-Project/blob/main/turtlestaplogo.png)
-# Bar-Management-Project
 
-This repository contains an anonymized version of the project. Fictional beer names, inspired by pets and creative input from friends, have been used to maintain client confidentiality while showcasing the full capabilities of the dashboard. 
+# Bar Management Project
 
-# Beer Inventory Analysis Dashboard
+This repository contains an anonymized version of a beer inventory analysis project for a local bar and kitchen. Fictional beer names, inspired by pets and creative input from friends, have been used to maintain client confidentiality while showcasing the full capabilities of the dashboard.
 
 ## Project Overview
-This project involves the development of a comprehensive beer inventory analysis dashboard for a local bar and kitchen. Working closely with the bar director, I designed and implemented a system to analyze beer inventory, sales, and pouring efficiency over a four-month period, covering various beer products in both kegs and bottles.
+
+Working closely with the bar director, I designed and implemented a comprehensive system to analyze beer inventory, sales, and pouring efficiency over a four-month period. The project covers various beer products in both kegs and bottles, providing valuable insights for inventory management and sales strategies.
 
 ## Key Features
 
@@ -18,15 +18,15 @@ This project involves the development of a comprehensive beer inventory analysis
 
 ## Technologies Used
 
-- Google Sheets for initial data handling and calculations
-- Google Looker Studio for dashboard creation and visualization
-- Adobe Express for fictional logo creation
+- Google Sheets: Initial data handling and calculations
+- Google Looker Studio: Dashboard creation and visualization
+- Adobe Express: Fictional logo creation
 
 ## Challenges and Solutions
 
-- Limited date range: Recommended future implementation of extended data collection
-- Inventory tracking uncertainties: Flagged for clarification with client
-- Pour size variations: Implemented standardized pour counts while noting potential real-world variations
+- **Limited date range:** Recommended future implementation of extended data collection
+- **Inventory tracking uncertainties:** Flagged for clarification with client
+- **Pour size variations:** Implemented standardized pour counts while noting potential real-world variations
 
 ## Skills Demonstrated
 
@@ -42,7 +42,24 @@ This project involves the development of a comprehensive beer inventory analysis
 - Incorporate event data to correlate with sales patterns
 - Implement forecasting elements for inventory planning
 
+## Dashboard Highlights
 
+- Interactive filters for Product, Month, and Type (Kegs/Bottles)
+- Key metrics: Expected Pours, Sold Pours, Pour Difference, % of Expected Pours Sold
+- Visualizations: 
+  - Stacked bar chart comparing Expected vs Sold Pours by product type
+  - Scatter plot of Expected vs Sold Pours
+  - "Sold Pours by Month" bar chart
+  - Gauge showing overall "% of Expected Pours Sold" with conditional labeling
+- Product performance table
+- Inventory count breakdown by product and type
+- Financial data including Cost by Unit and Total Order Cost
+
+## Next Steps
+
+- Incorporate remaining inventory data for a complete view of inventory movement
+- Develop short-term operational insights given the limited historical data
+- Emphasize consistent data collection for future long-term analysis capabilities
 
 Personal Touch
 The project includes a fictional branding element, "Turtle's Tap," inspired by my cat Turtle. This personal touch demonstrates the ability to blend professional analysis with engaging, relatable elements.
