@@ -37,9 +37,9 @@ Collaboration with non-technical stakeholders
 
 Future Recommendations
 
-# Extend data collection period for more comprehensive trend analysis
-# Incorporate event data to correlate with sales patterns
-# Implement forecasting elements for inventory planning
+- Extend data collection period for more comprehensive trend analysis
+- Incorporate event data to correlate with sales patterns
+- Implement forecasting elements for inventory planning
 
 
 
