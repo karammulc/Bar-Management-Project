@@ -74,19 +74,22 @@ _____________________________________________________________
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle.jpeg" width="400"/>
 
-_____________________________________________________________________________________________________________
+____________________________________________________
+
 *Honey*
 
 #### Honey Mahogany
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Honey.jpeg" width="400"/>
-_____________________________________________________________________________________________________________
+____________________________________________________
+
 *Reesa*
 
 #### Reesa Radegberger
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Reesa.jpeg" width="400"/>
-_____________________________________________________________________________________________________________
+____________________________________________________
+
 *Gus & Bryce*
 
 #### Gus-to IPA & Bryce's Bock
