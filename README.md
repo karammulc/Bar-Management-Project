@@ -83,8 +83,7 @@ Check out the pets my fictional beers were named after below!.
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Reesa.jpeg" width="400"/>
 
-#### Gus-to IPA
-#### Bryce's Bock
+#### Gus-to IPA & Bryce's Bock
 *Gus & Bryce*
 
 
