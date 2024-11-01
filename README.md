@@ -36,7 +36,7 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 - Problem-solving and adaptability in tool selection
 - Collaboration with non-technical stakeholders
 
-![Turtle's Tap Dashboard](https://github.com/karammulc/Bar-Management-Project/blob/main/Turtle's_Tap_Management_Dashboard.pdf)
+<img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/dashboard-page1.png" />
 
 
 ## Future Recommendations
