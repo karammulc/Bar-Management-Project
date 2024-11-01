@@ -36,6 +36,9 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 - Problem-solving and adaptability in tool selection
 - Collaboration with non-technical stakeholders
 
+![Turtle's Tap Dashboard](https://github.com/karammulc/Bar-Management-Project/blob/main/Turtle's_Tap_Management_Dashboard.pdf)
+
+
 ## Future Recommendations
 
 - Extend data collection period for more comprehensive trend analysis
@@ -53,7 +56,7 @@ Working closely with the bar director, I designed and implemented a comprehensiv
   - Gauge showing overall "% of Expected Pours Sold" with conditional labeling
 - Product performance table
 - Inventory count breakdown by product and type
-- Financial data including Cost by Unit and Total Order Cost
+- Financial data, including Cost by Unit and Total Order Cost
 
 ## Next Steps
 
@@ -62,5 +65,29 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 - Emphasize consistent data collection for future long-term analysis capabilities
 
 Personal Touch
-The project includes a fictional branding element, "Turtle's Tap," inspired by my cat Turtle. This personal touch demonstrates the ability to blend professional analysis with engaging, relatable elements.
-[Note: Images of pets that inspired some beer names can be found at the end of the documentation.]
+The project includes a fictional branding element, "Turtle's Tap," inspired by my cat Turtle.
+Check out the pets my fictional beers were named after below!.
+
+#### Tumbling Turtle Cider / Turtle's Tap
+Turtle!
+
+![Turtle's Tap Dashboard]
+
+#### Honey Mahogany
+Honey
+
+![Turtle's Tap Dashboard]
+#### Gus-to IPA
+Gus
+
+![Turtle's Tap Dashboard]
+
+#### Reesa Radegberger
+Reesa 
+
+![Turtle's Tap Dashboard]
+
+#### Bryce’s Bock
+Bryce
+
+![Turtle's Tap Dashboard]
