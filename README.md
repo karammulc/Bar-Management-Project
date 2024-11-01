@@ -71,23 +71,23 @@ Check out the pets my fictional beers were named after below!.
 #### Tumbling Turtle Cider / Turtle's Tap
 Turtle!
 
-![Turtle's Tap Dashboard]
+![Turtle](https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle.jpeg)
 
 #### Honey Mahogany
 Honey
 
-![Turtle's Tap Dashboard]
-#### Gus-to IPA
-Gus
+![Honey](https://github.com/karammulc/Bar-Management-Project/blob/main/images/Honey.jpeg)
 
-![Turtle's Tap Dashboard]
+
 
 #### Reesa Radegberger
 Reesa 
 
-![Turtle's Tap Dashboard]
+![Reesa](https://github.com/karammulc/Bar-Management-Project/blob/main/images/Reesa.jpeg)
 
+#### Gus-to IPA
 #### Bryce’s Bock
-Bryce
 
-![Turtle's Tap Dashboard]
+Gus & Bryce
+
+![Gus & Bryce](https://github.com/karammulc/Bar-Management-Project/blob/main/images/Gus%20%26%20Bryce.jpeg)
