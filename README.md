@@ -36,8 +36,8 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 - Problem-solving and adaptability in tool selection
 - Collaboration with non-technical stakeholders
 
-<img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/dashboard-page1.png" />
-
+<img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle_Dash_1.png" />
+<img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle_Dash_2.png" />
 
 ## Future Recommendations
 
@@ -68,7 +68,7 @@ Personal Touch
 The project includes a fictional branding element, "Turtle's Tap," inspired by my cat Turtle.
 Check out the pets my fictional beers were named after below!
 _____________________________________________________________
-*Turtle!* - *Tumbling Turtle Cider / Turtle's Tap*
+*Turtle* - *Tumbling Turtle Cider / Turtle's Tap*
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle.jpeg" width="400"/>
 
