@@ -70,7 +70,7 @@ Check out the pets my fictional beers were named after below!
 _____________________________________________________________
 *Turtle* - *Tumbling Turtle Cider / Turtle's Tap*
 
-<img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle.jpeg" width="400"/>
+<img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle.jpg" width="400"/>
 
 ____________________________________________________
 
