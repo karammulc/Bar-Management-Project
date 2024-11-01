@@ -69,23 +69,23 @@ The project includes a fictional branding element, "Turtle's Tap," inspired by m
 Check out the pets my fictional beers were named after below!.
 #### Tumbling Turtle Cider / Turtle's Tap
 
-Turtle!
+*Turtle!*
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle.jpeg" width="400"/>
 
 #### Honey Mahogany
-Honey:
+*Honey*
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Honey.jpeg" width="400"/>
 
 #### Reesa Radegberger
-Reesa:
+*Reesa*
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Reesa.jpeg" width="400"/>
 
 #### Gus-to IPA
 #### Bryce's Bock
-Gus & Bryce:
+*Gus & Bryce*
 
 
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Gus%20%26%20Bryce.jpeg" width="400"/>
