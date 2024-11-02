@@ -29,7 +29,7 @@
 =IF(H2=13.2, 141G2, IF(H2=15.5, 165G2, IF(H2=5.16, 55G2, H2G2)))
 Copy- Calculated Pour Ratio (initially Expected Pours / Sold Pours, later inverted to Sold Pours / Expected Pours)
 
-### 7. Data Verification Process
+### Data Verification Process
 - Conducted thorough comparison between original and transformed datasets
 - Verified product names, dates, pricing, keg sizes, and counts
 - Confirmed accuracy of UpPrice/per and discount amounts
@@ -54,7 +54,7 @@ Copy- Calculated Pour Ratio (initially Expected Pours / Sold Pours, later invert
 - Performed a final check to ensure all calculations were accurate
 - Verified that anonymized data reflected realistic business scenarios
 
-### 13. Documentation
+### Documentation
 - Maintained detailed notes on all data cleaning and transformation steps
 - Documented assumptions made during the cleaning process for future reference
 
