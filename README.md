@@ -49,8 +49,7 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 
 - Interactive filters for Product, Month, and Type (Kegs/Bottles)
 - Key metrics: Expected Pours, Sold Pours, Pour Difference, % of Expected Pours Sold
-- Visualizations: 
-- Stacked bar chart comparing Expected vs Sold Pours by product type
+- Visualizations: Stacked bar chart comparing Expected vs Sold Pours by product type
 - Scatter plot of Expected vs Sold Pours
 - "Sold Pours by Month" bar chart
 - Gauge showing overall "% of Expected Pours Sold" with conditional labeling feature
