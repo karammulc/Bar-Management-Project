@@ -58,4 +58,4 @@ Copy- Calculated Pour Ratio (initially Expected Pours / Sold Pours, later invert
 - Maintained detailed notes on all data cleaning and transformation steps
 - Documented assumptions made during the cleaning process for future reference
 
-This comprehensive data cleaning process ensured the final dataset was consistent, accurate, and well-structured for analysis in Google Looker Studio. The process addressed various data quality issues while preparing the data for effective visualization and analysis.
+This comprehensive data cleaning process ensured the final dataset was consistent, accurate, and well structured for analysis in Google Looker Studio. The process addressed various data quality issues while preparing the data for effective visualization and analysis.
