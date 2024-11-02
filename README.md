@@ -2,7 +2,7 @@
 
 # Bar Management Project
 
-This repository contains an anonymized version of a beer inventory analysis project for a local bar and kitchen. Fictional beer names, inspired by pets and creative input from friends, have been used to maintain client confidentiality while showcasing the full capabilities of the dashboard.
+This repository contains an anonymized version of a beer inventory analysis project for a local bar and kitchen. Fictional beer names, inspired by pets and creative input from friends, have been used to maintain client confidentiality while showcasing the full capabilities of the dashboard. You'll find some of the pets who inspired these beer names at the bottom of this markdown!
 
 ## Project Overview
 
