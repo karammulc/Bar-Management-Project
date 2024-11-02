@@ -1,30 +1,30 @@
 ## Data Cleaning and Preparation Process
 
-### 1. Initial Data Assessment
+### Initial Data Assessment
 - Reviewed two primary data sources: "verification of Beer Purchaces_Sold - Sheet1.csv" and "Beer Numbers - Sheet1.csv"
 - Identified inconsistencies in data structure and formatting
 
-### 2. Data Restructuring
+### Data Restructuring
 - Transformed data from wide format (months as columns) to long format
 - Created a standardized Date/Month column (e.g., 6/2024 format)
 - This restructuring facilitated time-series analysis and improved overall data manageability
 
-### 3. Column Additions and Modifications
+### Column Additions and Modifications
 - Added 'Type' column to distinguish between kegs and cans/bottles
 - Created 'Expected Pours' column based on keg/bottle sizes
 - Implemented 'Pour Difference' column (Expected Pours - Sold Pours)
 - Added 'Expected / Sold Ratio' column for performance analysis
 
-### 4. Data Normalization
+### Data Standardization
 - Standardized product names across all entries
 - Unified units of measurement (consistently using pours instead of mixing with case or keg counts)
 
-### 5. Handling Missing and Zero Values
+### Handling Missing and Zero Values
 - Addressed entries with zero Expected or Sold Pours
 - Added placeholder dates (marked in red) for entries missing date information
 - Ensured all sold pours were accounted for, even without specific dates
 
-### 6. Calculation Implementations
+### Calculation Implementations
 - Developed formula for Expected Pour Count based on keg sizes:
 =IF(H2=13.2, 141G2, IF(H2=15.5, 165G2, IF(H2=5.16, 55G2, H2G2)))
 Copy- Calculated Pour Ratio (initially Expected Pours / Sold Pours, later inverted to Sold Pours / Expected Pours)
@@ -35,22 +35,22 @@ Copy- Calculated Pour Ratio (initially Expected Pours / Sold Pours, later invert
 - Confirmed accuracy of UpPrice/per and discount amounts
 - Checked completeness of data transfer and additional calculated fields
 
-### 8. Handling Problematic Data
+### Handling Problematic Data
 - Temporarily excluded PU$ column due to difficulties with cell references
 - Noted inventory tracking uncertainties for future clarification
 
-### 9. Aggregation and Summary
+### Aggregation and Summary
 - Created summary rows for totals to provide quick insights into overall performance
 - Implemented running averages for smoother trend analysis
 
-### 10. Data Anonymization for Portfolio
+### Data Anonymization for Portfolio
 - Replaced actual product names with fictitious beer names
 - Ensured anonymized data maintained realistic patterns and relationships
 
-### 11. Extended Date Range (for demonstration purposes)
+### Extended Date Range (for demonstration purposes)
 - Added more dates to the fictionalized dataset to showcase dashboard capabilities over a longer period
 
-### 12. Final Data Validation
+### Final Data Validation
 - Performed a final check to ensure all calculations were accurate
 - Verified that anonymized data reflected realistic business scenarios
 
