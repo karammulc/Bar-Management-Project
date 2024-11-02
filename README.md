@@ -59,9 +59,9 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 
 ## Next Steps
 
-- Incorporate remaining inventory data for a complete view of inventory movement
-- Develop short term operational insights given the limited historical data
-- Emphasize consistent data collection for future long term analysis capabilities
+- Incorporate remaining inventory data for a complete view of inventory movement.
+- Develop short term operational insights given the limited historical data.
+- Emphasize consistent data collection for future long term analysis capabilities.
 
 
 The project includes a fictional name for our annomitized bar name, "Turtle's Tap," inspired by my cat Turtle.
