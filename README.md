@@ -36,6 +36,8 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 - Problem solving and adaptability in tool selection
 - Collaboration with non technical stakeholders
 
+____________________________________________________
+
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle_Dash_1.png" />
 <img src="https://github.com/karammulc/Bar-Management-Project/blob/main/images/Turtle_Dash_2.png" />
 
