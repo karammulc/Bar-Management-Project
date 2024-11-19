@@ -1,61 +1,31 @@
-## Data Cleaning and Preparation Process
+# Data Cleaning and Transformation Process
 
-### Initial Data Assessment
-- Reviewed two primary data sources: "verification of Beer Purchaces_Sold - Sheet1.csv" and "Beer Numbers - Sheet1.csv"
-- Identified inconsistencies in data structure and formatting
+## Initial Data Assessment and Transformation
+The project began with a review of two key datasets, **"Verification of Beer Purchases_Sold"** and **"Beer Numbers"**. Inconsistencies in data structure and formatting were identified, prompting a restructuring effort. The data was converted from a wide format, with months as columns, to a long format with a standardized `Date/Month` column (e.g., `6/2024`). This adjustment allowed for more effective time-series analysis and streamlined data management.
 
-### Data Restructuring
-- Transformed data from wide format (months as columns) to long format
-- Created a standardized Date/Month column (e.g., 6/2024 format)
-- This restructuring facilitated time-series analysis and improved overall data manageability
+## Enhancing the Dataset
+To enrich the dataset, several columns were added:
+- A `Type` column to differentiate kegs from cans or bottles.  
+- `Expected Pours` based on container sizes, and `Pour Difference` to track discrepancies between expected and sold pours.  
+- An `Expected/Sold Ratio` to facilitate performance analysis.  
 
-### Column Additions and Modifications
-- Added 'Type' column to distinguish between kegs and cans/bottles
-- Created 'Expected Pours' column based on keg/bottle sizes
-- Implemented 'Pour Difference' column (Expected Pours - Sold Pours)
-- Added 'Expected / Sold Ratio' column for performance analysis
+Product names and units of measurement were standardized for consistency, with all quantities reported as pours rather than mixed units.
 
-### Data Standardization
-- Standardized product names across all entries
-- Unified units of measurement (consistently using pours instead of mixing with case or keg counts)
+## Addressing Data Gaps
+Missing or problematic values were handled carefully. Placeholder dates (highlighted for clarity) were added where dates were absent, and zero values in key fields were addressed to ensure no sold pours went unrecorded.
 
-### Handling Missing and Zero Values
-- Addressed entries with zero Expected or Sold Pours
-- Added placeholder dates (marked in red) for entries missing date information
-- Ensured all sold pours were accounted for, even without specific dates
+## Calculations and Adjustments
+Formulas were developed to calculate expected pour counts based on keg sizes. A pour ratio was initially calculated as `Expected Pours / Sold Pours` before being inverted. Some problematic columns, like `PU$`, were temporarily set aside due to technical challenges, with plans for future resolution.
 
-### Calculation Implementations
-- Developed formula for Expected Pour Count based on keg sizes:
-=IF(H2=13.2, 141G2, IF(H2=15.5, 165G2, IF(H2=5.16, 55G2, H2G2)))
-Copy- Calculated Pour Ratio (initially Expected Pours / Sold Pours, later inverted to Sold Pours / Expected Pours)
+## Data Verification and Summary
+A meticulous verification process compared the original and transformed datasets, ensuring accuracy in product names, dates, pricing, and calculated fields. Summary rows and running averages were included for quick insights and trend analysis.
 
-### Data Verification Process
-- Conducted thorough comparison between original and transformed datasets
-- Verified product names, dates, pricing, keg sizes, and counts
-- Confirmed accuracy of UpPrice/per and discount amounts
-- Checked completeness of data transfer and additional calculated fields
+## Anonymization and Demonstration Enhancements
+To prepare the data for portfolio use, product names were replaced with fictional equivalents while maintaining realistic patterns. Additional dates were added to demonstrate dashboard capabilities over an extended timeline.
 
-### Handling Problematic Data
-- Temporarily excluded PU$ column due to difficulties with cell references
-- Noted inventory tracking uncertainties for future clarification
+## Final Validation and Documentation
+The final dataset underwent rigorous checks to confirm the accuracy of calculations and alignment with real world scenarios. Every step of the process, along with key assumptions, was thoroughly documented to ensure clarity and reproducibility.
 
-### Aggregation and Summary
-- Created summary rows for totals to provide quick insights into overall performance
-- Implemented running averages for smoother trend analysis
-
-### Data Anonymization for Portfolio
-- Replaced actual product names with fictitious beer names
-- Ensured anonymized data maintained realistic patterns and relationships
-
-### Extended Date Range (for demonstration purposes)
-- Added more dates to the fictionalized dataset to showcase dashboard capabilities over a longer period
-
-### Final Data Validation
-- Performed a final check to ensure all calculations were accurate
-- Verified that anonymized data reflected realistic business scenarios
-
-### Documentation
-- Maintained detailed notes on all data cleaning and transformation steps
-- Documented assumptions made during the cleaning process for future reference
-
+## Outcome
 This comprehensive data cleaning process ensured the final dataset was consistent, accurate, and well structured for analysis in Google Looker Studio. The process addressed various data quality issues while preparing the data for effective visualization and analysis.
+
