@@ -4,7 +4,7 @@
 
 This repository contains an anonymized version of a beer inventory analysis project for a local bar and kitchen. Fictional beer names, inspired by pets and creative input from friends, have been used to maintain client confidentiality while showcasing the full capabilities of the dashboard. You'll find some of the pets who inspired these beer names at the bottom of this markdown!
 
-## Project Overview
+## Project Overview 🔍
 
 Working closely with the bar director, I designed and implemented a comprehensive system to analyze beer inventory, sales, and pouring efficiency over a four month period. The project covers various beer products in both kegs and bottles, providing valuable insights for inventory management and sales strategies.
 
@@ -22,7 +22,7 @@ Working closely with the bar director, I designed and implemented a comprehensiv
 - Google Looker Studio: Dashboard creation and visualization
 - Adobe Express: Fictional logo creation
 
-## Challenges and Solutions
+## Challenges and Solutions 
 
 - **Limited date range:** Recommended future implementation of extended data collection
 - **Inventory tracking uncertainties:** Flagged for clarification with client, collaborated for better understanding of provided data.
